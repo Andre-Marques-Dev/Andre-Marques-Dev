@@ -1,7 +1,7 @@
 ### 🦅 Oiii! Eu sou o André Marques 👋
 
 - 🔭 Hoje trabalho como estagiário em programação Full Stack.
-- 🌱 Estundando PHP, Vue.js, HTML, CSS, Javascript e MySQL.
+- 🌱 Estundando PHP, Vue.js, HTML, CSS, Javascript e Java.
 - 📫 Contate-me no email: andremig.brasil@gmail.com
 - 😄 Pronouns: ele/dele
 
