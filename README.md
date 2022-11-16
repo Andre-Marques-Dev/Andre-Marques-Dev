@@ -15,6 +15,8 @@
   <img align="center" alt="Andre-Js" height="30" width="40" src="https://github.com/Andre-Marques-Dev/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">
 </div>
 
+##
+
 <div align="center">
   <a href="https://github.com/Andre-Marques-Dev">
   <img src="https://github-readme-stats.vercel.app/api?username=Andre-Marques-Dev&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="brseghese GitHub stats"/></a>
