@@ -9,8 +9,9 @@
   <a href="https://github.com/Andre-Marques-Dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre-Marques-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Marques-Dev&layout=compact&langs_count=7&theme=dracula"/>
+    <a href="http://www.github.com/Andre-Marques-Dev"><img src="https://activity-graph.herokuapp.com/graph?username=Andre-Marques-Dev&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div>
-  <a href="http://www.github.com/Andre-Marques-Dev"><img src="https://activity-graph.herokuapp.com/graph?username=Andre-Marques-Dev&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
