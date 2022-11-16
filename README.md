@@ -22,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" width="36"/>
   <img align="center" alt="Andre-Js" height="30" width="40" src="https://github.com/Andre-Marques-Dev/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">
 </div>
+
+![Snake animation](https://github.com/Andre-Marques-Dev/Andre-Marques-Dev/blob/output/github-contribution-grid-snake.svg)
   
   ##
   
