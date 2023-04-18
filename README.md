@@ -1,7 +1,7 @@
 ### 🦅 Oiii! Eu sou o André Marques 👋
 
 - 🔭 Hoje trabalho como Assistente de Sistemas.
-- 🌱 Estundando Flutter, Dart, HTML, CSS, e Javascript.
+- 🌱 Estundando Flutter, Dart, HTML, CSS, Javascript, API RESTful, AWS, Docker, Linux e Redes de Computadores
 - 📫 Contate-me no email: andremig.brasil@gmail.com
 - 😄 Pronouns: ele/dele
 
