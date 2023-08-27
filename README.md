@@ -25,6 +25,12 @@
 <h3 align="left">GitHub Stats</h3>
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elidianaandrade&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+<div align="left">
+  <a href="https://github.com/Andre-Marques-Dev">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andre-Marques-Dev&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="brseghese GitHub stats"/></a>
+  <a href="http://www.github.com/Andre-Marques-Dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Andre-Marques-Dev&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    <a href="https://github.com/Andre-Marques-Dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Marques-Dev&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
 <!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elidianaandrade&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)-->
 <br>
 
@@ -52,18 +58,7 @@
   <img align="center" alt="Andre-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Andre-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
-
-##
-
-<div align="left">
-  <a href="https://github.com/Andre-Marques-Dev">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andre-Marques-Dev&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="brseghese GitHub stats"/></a>
-  <a href="http://www.github.com/Andre-Marques-Dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Andre-Marques-Dev&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    <a href="https://github.com/Andre-Marques-Dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Marques-Dev&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
-  
-  
-  
+    
   ##
   
   <div>
