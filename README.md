@@ -39,16 +39,6 @@
 
 </details>
 
-
-
-
-### 🦅 Oiii! Eu sou o André Marques 👋
-
-- 🔭 Hoje trabalho como Assistente de Sistemas.
-- 🌱 Estundando Flutter, Dart, HTML, CSS, Javascript, API RESTful, AWS, Docker, Linux e Redes de Computadores
-- 📫 Contate-me no email: andremig.brasil@gmail.com
-- 😄 Pronouns: ele/dele
-
 ### Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
