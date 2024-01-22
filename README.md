@@ -6,9 +6,9 @@
     <span>André Marques</span>
 </h1>
 
-<p align="justify">Front-end Developer from Nova Lima-MG, Brazil, graduating at Software Engineering. My first "Hello World" was in 2021 when I had contact with HTML, CSS and a little bit of JavaScript and Notepad++. 
+<p align="justify">Front-end Developer from Belo Horizonte-MG, Brazil, graduating at Software Engineering. My first "Hello World" was in 2021 when I had contact with HTML, CSS and a little bit of JavaScript and Notepad++. 
 <br>
- Passionate about arts and technology, some of my hobbies are games, watching and reading.<a href=""></a>.</p>
+ Passionate about Soccer and technology, some of my hobbies are games, watching and reading.<a href=""></a>.</p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
