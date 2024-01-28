@@ -12,7 +12,6 @@
     <br>
     Estudo Frontend com HTML, CSS e JavaScript , e desenvolvo meus projetos pessoais com foco em busca de conhecimento e boas práticas.
     
-    <br>
 Tenho me empenhado na especialização em outros frameworks e outras linguagens que estão em alta no mercado, como C# e .NET , por exemplo.<a href=""></a></p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
