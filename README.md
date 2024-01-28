@@ -12,7 +12,7 @@
  Formado em Análise e Desenvolvimento de sistemas, cursando o 6° período em Engenharia de Software e Pós-graduando em Cloud Computing. Tenho voltado minha carreira para Desenvolvimento e Análise de sistemas, e também para a área de infraestrura em Cloud com Amazon AWS e Microsoft Azure.
     <br>
     
-    Estudo Frontend com HTML, CSS e JavaScript , e desenvolvo meus projetos pessoais com foco em busca de conhecimento e boas práticas.
+Estudo Frontend com HTML, CSS e JavaScript , e desenvolvo meus projetos pessoais com foco em busca de conhecimento e boas práticas.
     
 Tenho me empenhado na especialização em outros frameworks e outras linguagens que estão em alta no mercado, como C# e .NET , por exemplo.<a href=""></a></p>
 <!--
