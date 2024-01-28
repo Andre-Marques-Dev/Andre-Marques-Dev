@@ -6,9 +6,9 @@
     <span>André Marques</span>
 </h1>
 
-<p align="justify">Front-end Developer from Belo Horizonte-MG, Brazil, graduating at Software Engineering. My first "Hello World" was in 2021 when I had contact with HTML, CSS and a little bit of JavaScript and Notepad++. 
+<p align="justify">Desenvolvedor Front-end de Belo Horizonte-MG, graduando em Engenharia de Software. Meu primeiro “Hello World” foi em 2021 quando tive contato com HTML, CSS e um pouco de JavaScript. 
 <br>
- Passionate about Soccer and technology, some of my hobbies are games, watching and reading.<a href=""></a>.</p>
+ Formado em Análise e Desenvolvimento de sistemas, cursando o 6° período em Engenharia de Software e Pós-graduando em Cloud Computing. Tenho voltado minha carreira para Desenvolvimento e Análise de sistemas, e também para a área de infraestrura em Cloud com Amazon AWS e Microsoft Azure<a href=""></a>.</p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
