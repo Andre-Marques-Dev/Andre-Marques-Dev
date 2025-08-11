@@ -9,12 +9,12 @@
 <p align="justify">Desenvolvedor Front-end de Belo Horizonte-MG. 
 <br>
     
- Formado em Análise e Desenvolvimento de sistemas, cursando o 6° período em Engenharia de Software e Pós-graduando em Cloud Computing. Tenho voltado minha carreira para Desenvolvimento e Análise de sistemas, e também para a área de infraestrura em Cloud com Amazon AWS e Microsoft Azure.
+ Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso o 8º período de Engenharia de Software, com conclusão prevista para dezembro de 2025. Tenho direcionado minha carreira para as áreas de Desenvolvimento e Análise de Sistemas, com forte atuação em ambientes corporativos que utilizam o ERP TOTVS RM.
     <br>
     
-Estudo Frontend com HTML, CSS e JavaScript , e desenvolvo meus projetos pessoais com foco em busca de conhecimento e boas práticas.
+<br>Possuo experiência prática com rotinas, processos e regras de negócio do setor da construção civil, adquirida por meio de minha atuação em empresas do segmento.<br>
     
-Tenho me empenhado na especialização em outros frameworks e outras linguagens que estão em alta no mercado, como C# e .NET , por exemplo.<a href=""></a></p>
+Estudo Frontend com HTML, CSS e JavaScript, desenvolvendo projetos pessoais voltados à consolidação de conhecimento, aplicação de boas práticas e aperfeiçoamento técnico..<a href=""></a></p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
