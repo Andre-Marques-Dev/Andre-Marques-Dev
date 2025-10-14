@@ -37,17 +37,6 @@ Estudo Frontend com HTML, CSS e JavaScript, desenvolvendo projetos pessoais volt
 <!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elidianaandrade&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)-->
 <br>
 
-<details align="left">
-  <summary></summary> 
- 
-  - Badges by <a href="https://shields.io/">shields.io</a><br>
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
- 
-  <div align="right">Made with 💜 by <a href="https://github.com/Andre-Marques-Dev">EA</a>.</div>
-
-</details>
-
 ### Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
