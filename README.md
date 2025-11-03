@@ -9,7 +9,7 @@
 <p align="justify">Desenvolvedor Front-end de Belo Horizonte-MG. 
 <br>
     
- Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso o 8º período de Engenharia de Software, com conclusão prevista para dezembro de 2025. Tenho direcionado minha carreira para as áreas de Desenvolvimento e Análise de Sistemas, com forte atuação em ambientes corporativos que utilizam o ERP TOTVS RM.
+ Sou formado em Engenharia de Software. Tenho direcionado minha carreira para as áreas de Desenvolvimento e Análise de Sistemas, com forte atuação em ambientes corporativos que utilizam o ERP TOTVS RM.
     <br>
     
 <br>Possuo experiência prática com rotinas, processos e regras de negócio do setor da construção civil, adquirida por meio de minha atuação em empresas do segmento.<br>
