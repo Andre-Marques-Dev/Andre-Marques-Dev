@@ -5,8 +5,6 @@
      <img align="center" alt="Logo Elidiana Andrade" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
     <span>André Marques</span>
 </h1>
-
-<p align="justify">Desenvolvedor Frontend de Belo Horizonte-MG. 
 <br>
     
  Sou formado em Engenharia de Software. Tenho direcionado minha carreira para as áreas de Desenvolvimento e Análise de Sistemas, com forte atuação em ambientes corporativos que utilizam o ERP TOTVS RM.
