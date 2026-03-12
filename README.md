@@ -45,6 +45,7 @@ Estudo Frontend com HTML, CSS e JavaScript, desenvolvendo projetos pessoais volt
   <img align="center" alt="Andre-git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Andre-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Andre-SQLServer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Andre-PowerBI" height="25" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </div>
 
 ##
